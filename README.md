@@ -15,9 +15,9 @@ I’m a driven Dual Degree Candidate pursuing the IITM Online BS Degree Program,
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, C, C++, HTML, CSS, SQL  
+- **Languages:** Python, JavaScript, C, HTML, CSS, SQL  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Excel  
+- **Tools:** Git, GitHub, VS Code, Excel ,Cursor
 - **Certifications:** Microsoft AI Skills Challenge, PHP & MySQL, Cybersecurity Foundation  
 
 ---
