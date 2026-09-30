@@ -44,7 +44,7 @@ I’m a driven Dual Degree Candidate pursuing the IITM Online BS Degree Program,
 
 - Email: [vijig2004@gmail.com](mailto:vijig2004@gmail.com)  
 - GitHub: [github.com/VIJAYAGEETHAV](https://github.com/VIJAYAGEETHAV)
-- LinkedIn:[[https://www.linkedin.com/in/vijayageetha-v-5610832ab]([https://www.linkedin.com/in/vijayageetha-v-5610832ab)  
+- LinkedIn:[[https://www.linkedin.com/in/vijayageetha-v-5610832ab](https://www.linkedin.com/in/vijayageetha-v-5610832ab)  
   
 
 ---
