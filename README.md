@@ -3,7 +3,7 @@
 🎓 **Dual Degree Candidate**  
 📍 **Data Science & Computer Science Engineering**  
 🏛️ **IIT Madras Online BS Program & ST. Joseph’s College of Engineering and Technology**  
-🌐 **Location:** Thanjavur, Tamil Nadu, India
+🌐 **Location:** Chennai, Tamil Nadu, India
 
 ---
 
@@ -44,6 +44,8 @@ I’m a driven Dual Degree Candidate pursuing the IITM Online BS Degree Program,
 
 - Email: [vijig2004@gmail.com](mailto:vijig2004@gmail.com)  
 - GitHub: [github.com/VIJAYAGEETHAV](https://github.com/VIJAYAGEETHAV)
+- LinkedIn:[[https://www.linkedin.com/in/vijayageetha-v-5610832ab]([https://www.linkedin.com/in/vijayageetha-v-5610832ab)  
+  
 
 ---
 
